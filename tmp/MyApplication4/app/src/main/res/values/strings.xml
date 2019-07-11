@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView app</string>
+    <string name="add_btn">Add</string>
+    <string name="add_edit">String to add</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Local Service App</string>
+    <string name="btn_1">Start</string>
+    <string name="btn_2">Stop</string>
+</resources>

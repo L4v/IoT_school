@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Z01</string>
+    <string name="klikni_me">CLICK ME</string>
+    <string name="enter_text">Enter text</string>
+    <string name="nothing">Nothing for now</string>
+    <string name="next">NEXT</string>
+    <string name="hello">Hello World</string>
+</resources>
